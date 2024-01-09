@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "989347108715",
+    "project_id": "flutter-chat-app-86cce",
+    "storage_bucket": "flutter-chat-app-86cce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989347108715:android:994c58aa5aab1e738ede2e",
+        "android_client_info": {
+          "package_name": "com.lorem.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtN3p1YWJ-L8cuD_XLSeQx889OdiCuR1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
